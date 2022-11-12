@@ -172,12 +172,13 @@ img{
     font-size: 1.2rem;
     margin-bottom: var(--mb-1);
 }
-}
+
 .show-menu{
     bottom: var(--header-height);
 }
 .active-link{
     color: var(--tittle-color);
+}
 }
 .home{
     position: relative;
