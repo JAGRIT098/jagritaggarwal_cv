@@ -153,8 +153,8 @@ img{
 }
 .nav__list{
     display: grid;
-    grid-template-columns:repeat(3,1fr);
-    gap: .75rem;
+    grid-template-columns:repeat(2,1fr);
+    gap: 2rem;
 }
 .nav_link{
     display: flex;
