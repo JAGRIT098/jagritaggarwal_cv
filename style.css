@@ -136,7 +136,7 @@ img{
         transition: .3;
     }
 
-}
+
 .nav__logo,
 .nav__toggle{
     color: var(--tittle-color);
@@ -171,6 +171,7 @@ img{
 .nav__icon{
     font-size: 1.2rem;
     margin-bottom: var(--mb-1);
+}
 }
 .show-menu{
     bottom: var(--header-height);
