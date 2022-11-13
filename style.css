@@ -232,7 +232,7 @@ img{
     grid-template-columns: max-content;
     gap: 1rem;
 }
-.socaial__link{
+.social__link{
     display: inline-flex;
     align-items: center;
     font-size: var(--small-font-size);
