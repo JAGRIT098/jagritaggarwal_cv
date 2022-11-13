@@ -361,7 +361,7 @@ img{
     transition: .4s;
     /*visibility: hidden;*/
 }
-.scroll_icon{
+.scrolltop__icon{
     font-size: 1.2rem;
     color: var(--text-color);
 }
