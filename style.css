@@ -156,7 +156,7 @@ img{
     grid-template-columns:repeat(2,1fr);
     gap: 2rem;
 }
-.nav_link{
+.nav__link{
     display: flex;
     flex-direction: column;
     font-size: var(--smaller-font-size);
