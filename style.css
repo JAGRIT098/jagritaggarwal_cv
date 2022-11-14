@@ -238,7 +238,7 @@ img{
     font-size: var(--small-font-size);
     color: var(--text-color);
 }
-.social__link:hocer{
+.social__link:hover{
     color: var(--tittle-color);
 }
 .social__icon{
